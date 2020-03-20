@@ -7,6 +7,7 @@ Authors@R: c(
   person("Liz", "Roten", email = "liz.roten@metc.state.mn.us", role = c("ctb"))
   )
 Description: Skeleton CSS for Shiny.
+Date: 2020
 Depends: R (>= 3.3.3)
 License: MIT + file LICENSE
 Encoding: UTF-8
