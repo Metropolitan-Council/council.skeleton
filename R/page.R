@@ -11,10 +11,11 @@ sk_page <- function(...){
 
     ),
     tags$body(
-      includeCSS(system.file("css/font.css", package = "skeleton")),
-      includeCSS(system.file("css/normalize.css", package = "skeleton")),
-      includeCSS(system.file("css/skeleton.css", package = "skeleton")),
-      includeCSS(system.file("css/forapp.css", package = "skeleton")),
+      includeCSS(system.file("css/colors.css", package = "council.skeleton")),
+      includeCSS(system.file("css/font.css", package = "council.skeleton")),
+      includeCSS(system.file("css/normalize.css", package = "council.skeleton")),
+      includeCSS(system.file("css/skeleton-council.css", package = "council.skeleton")),
+      includeCSS(system.file("css/forapp.css", package = "council.skeleton")),
       tags$div(class = "container", ...),
       #tags$a(href="#", id="back-to-top", title="Back to top", "GO"),
       tags$script('$( document ).ready(function() {
