@@ -1,13 +1,14 @@
-body{
-  background-color:#FFFFFF;
+body {
+  background-color: var(--council-white);
+  color: var(--council-black);
 }
 
-.row{
+.row {
   margin-top:2em;
 }
 
 a.navbar-link.clicked {
-    color: #1EAEDB;
+    color: var(--council-blue);
 }
 
 .hidethat {
