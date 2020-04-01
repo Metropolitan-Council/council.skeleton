@@ -1,50 +1,50 @@
 
 /* Light */
 @font-face {
-  font-family: 'HelveticaNeue';
+  font-family: "HelveticaNeue";
   font-style: normal;
   font-weight: 300;
-  src: local('HelveticaNeue Light'), local('HelveticaNeue-Light'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-lt-webfont.woff) format('woff');
+  src: local("HelveticaNeue Light"), local("HelveticaNeue-Light"), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-lt-webfont.woff) format("woff");
 }
 
 /* Condensed */
 @font-face {
-  font-family: 'HelveticaNeue';
+  font-family: "HelveticaNeue";
   font-style: normal;
   font-weight: 300;
-  src: local('HelveticaNeue Condensed'), local('HelveticaNeue-Condensed'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-cn-webfont.woff) format('woff');
+  src: local("HelveticaNeue Condensed"), local("HelveticaNeue-Condensed"), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-cn-webfont.woff) format("woff");
 }
 
 /* Bold condensed */
 @font-face{
-  font-family: 'HelveticaNeue';
+  font-family: "HelveticaNeue";
   font-style: normal;
   font-weight: 600;
-  src: local('HelveticaNeue Condensed Bold'), local('HelveticaNeue-Condensed-Bold'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-bdcn-webfont.woff) format('woff');
+  src: local("HelveticaNeue Condensed Bold"), local("HelveticaNeue-Condensed-Bold"), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-bdcn-webfont.woff) format("woff");
 }
 
 /* Medium */
 @font-face{
-  font-family: 'HelveticaNeue';
+  font-family: "HelveticaNeue";
   font-style: normal;
   font-weight: 400;
-  src: local('HelveticaNeue Medium'), local('HelveticaNeue-Medium'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-md-webfont.woff) format('woff');
+  src: local("HelveticaNeue Medium"), local("HelveticaNeue-Medium"), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-md-webfont.woff) format("woff");
 }
 
 /* Medium Condensed */
 @font-face{
-  font-family: 'HelveticaNeue';
+  font-family: "HelveticaNeue";
   font-style: normal;
   font-weight: 400;
-  src: local('HelveticaNeue Medium Condensed'), local('HelveticaNeue-Medium-Condensed'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-mdcn-webfont.woff) format('woff');
+  src: local("HelveticaNeue Medium Condensed"), local("HelveticaNeue-Medium-Condensed"), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-mdcn-webfont.woff) format("woff");
 }
 
 /* Roman */
 @font-face{
-  font-family: 'HelveticaNeue';
+  font-family: "HelveticaNeue";
   font-style: normal;
   font-weight: 400;
-  src: local('HelveticaNeue Roman'), local('HelveticaNeue-Roman'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-roman-webfont.woff) format('woff');
+  src: local("HelveticaNeue Roman"), local("HelveticaNeue-Roman"), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-roman-webfont.woff) format("woff");
 }
 
 
@@ -52,43 +52,43 @@
 /* Original fonts ------------------------------------------------------------------*/
 /* latin-ext */
 @font-face {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-style: normal;
   font-weight: 300;
-  src: local('Raleway Light'), local('Raleway-Light'), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIYqWqhPANqczVsq4A.woff2) format('woff2');
+  src: local("Raleway Light"), local("Raleway-Light"), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIYqWqhPANqczVsq4A.woff2) format("woff2");
 }
 /* latin */
 @font-face {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-style: normal;
   font-weight: 300;
-  src: local('Raleway Light'), local('Raleway-Light'), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIYqWqZPANqczVs.woff2) format('woff2');
+  src: local("Raleway Light"), local("Raleway-Light"), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwIYqWqZPANqczVs.woff2) format("woff2");
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-style: normal;
   font-weight: 400;
-  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v12/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2) format('woff2');
+  src: local("Raleway"), local("Raleway-Regular"), url(https://fonts.gstatic.com/s/raleway/v12/1Ptug8zYS_SKggPNyCMIT4ttDfCmxA.woff2) format("woff2");
 }
 /* latin */
 @font-face {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-style: normal;
   font-weight: 400;
-  src: local('Raleway'), local('Raleway-Regular'), url(https://fonts.gstatic.com/s/raleway/v12/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2) format('woff2');
+  src: local("Raleway"), local("Raleway-Regular"), url(https://fonts.gstatic.com/s/raleway/v12/1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2) format("woff2");
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-style: normal;
   font-weight: 600;
-  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwPIsWqhPANqczVsq4A.woff2) format('woff2');
+  src: local("Raleway SemiBold"), local("Raleway-SemiBold"), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwPIsWqhPANqczVsq4A.woff2) format("woff2");
 }
 /* latin */
 @font-face {
-  font-family: 'Raleway';
+  font-family: "Raleway";
   font-style: normal;
   font-weight: 600;
-  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwPIsWqZPANqczVs.woff2) format('woff2');
+  src: local("Raleway SemiBold"), local("Raleway-SemiBold"), url(https://fonts.gstatic.com/s/raleway/v12/1Ptrg8zYS_SKggPNwPIsWqZPANqczVs.woff2) format("woff2");
 }
