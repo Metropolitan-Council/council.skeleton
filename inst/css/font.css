@@ -1,7 +1,7 @@
 
 /* Light */
 @font-face {
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeue Light";
   font-style: normal;
   font-weight: 300;
   src: local("HelveticaNeue Light"), local("HelveticaNeue-Light"), url(/fonts/helveticaneueltstd-lt-webfont.woff) format("woff");
@@ -9,7 +9,7 @@
 
 /* Condensed */
 @font-face {
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeue Condensed";
   font-style: normal;
   font-weight: 300;
   src: local("HelveticaNeue Condensed"), local("HelveticaNeue-Condensed"), url(/fonts/helveticaneueltstd-cn-webfont.woff) format("woff");
@@ -17,7 +17,7 @@
 
 /* Bold condensed */
 @font-face{
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeue Condensed Bold";
   font-style: normal;
   font-weight: 600;
   src: local("HelveticaNeue Condensed Bold"), local("HelveticaNeue-Condensed-Bold"), url(/fonts/helveticaneueltstd-bdcn-webfont.woff) format("woff");
@@ -25,7 +25,7 @@
 
 /* Medium */
 @font-face{
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeue Medium";
   font-style: normal;
   font-weight: 400;
   src: local("HelveticaNeue Medium"), local("HelveticaNeue-Medium"), url(/fonts/helveticaneueltstd-md-webfont.woff) format("woff");
@@ -33,7 +33,7 @@
 
 /* Medium Condensed */
 @font-face{
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeue Medium Condensed";
   font-style: normal;
   font-weight: 400;
   src: local("HelveticaNeue Medium Condensed"), local("HelveticaNeue-Medium-Condensed"), url(/fonts/helveticaneueltstd-mdcn-webfont.woff) format("woff");
@@ -41,7 +41,7 @@
 
 /* Roman */
 @font-face{
-  font-family: "HelveticaNeue";
+  font-family: "HelveticaNeue Roman";
   font-style: normal;
   font-weight: 400;
   src: local("HelveticaNeue Roman"), local("HelveticaNeue-Roman"), url(/fonts/helveticaneueltstd-roman-webfont.woff) format("woff");
