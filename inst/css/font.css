@@ -17,7 +17,7 @@
 
 /* Bold condensed */
 @font-face{
-  family: 'HelveticaNeue';
+  font-family: 'HelveticaNeue';
   font-style: normal;
   font-weight: 600;
   src: local('HelveticaNeue Condensed Bold'), local('HelveticaNeue-Condensed-Bold'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-bdcn-webfont.woff) format('woff');
@@ -25,7 +25,7 @@
 
 /* Medium */
 @font-face{
-  family: 'HelveticaNeue';
+  font-family: 'HelveticaNeue';
   font-style: normal;
   font-weight: 400;
   src: local('HelveticaNeue Medium'), local('HelveticaNeue-Medium'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-md-webfont.woff) format('woff');
@@ -33,7 +33,7 @@
 
 /* Medium Condensed */
 @font-face{
-  family: 'HelveticaNeue';
+  font-family: 'HelveticaNeue';
   font-style: normal;
   font-weight: 400;
   src: local('HelveticaNeue Medium Condensed'), local('HelveticaNeue-Medium-Condensed'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-mdcn-webfont.woff) format('woff');
@@ -41,7 +41,7 @@
 
 /* Roman */
 @font-face{
-  family: 'HelveticaNeue';
+  font-family: 'HelveticaNeue';
   font-style: normal;
   font-weight: 400;
   src: local('HelveticaNeue Roman'), local('HelveticaNeue-Roman'), url(https://metrocouncil.org/App_Themes/METC/fonts/helveticaneueltstd-roman-webfont.woff) format('woff');
