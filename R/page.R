@@ -13,8 +13,8 @@ sk_page <- function(...){
     tags$body(
       includeCSS(system.file("css/colors.css", package = "council.skeleton")),
       includeCSS(system.file("css/font.css", package = "council.skeleton")),
-      # includeCSS(system.file("css/council-skeleton.css", package = "council.skeleton")),
-      includeCSS(system.file("css/skeleton.css", package = "council.skeleton")),
+      includeCSS(system.file("css/council-skeleton.css", package = "council.skeleton")),
+      # includeCSS(system.file("css/skeleton.css", package = "council.skeleton")),
       includeCSS(system.file("css/forapp.css", package = "council.skeleton")),
       includeCSS(system.file("css/normalize.css", package = "council.skeleton")),
       tags$div(class = "container", ...),

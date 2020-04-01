@@ -123,9 +123,10 @@ html {
 body {
   font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 400;
-  font-family: "HelveticaNeue Roman", Helvetica, Tahoma, Geneva, Arial, sans-serif;
-  color: #222; }
+  font-weight: 100;
+  font-family: Roman, Helvetica, Tahoma, Geneva, Arial, sans-serif;
+  background-color: var(--council-white);
+  color: var(--council-black);}
 
 
 /* Typography
@@ -134,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 300;
-  font-family: HelveticaNeue-Light, Helvetica, Tahoma, Geneva, Arial, sans-serif;
+  font-family: Light, Helvetica, Tahoma, Geneva, "Arial Narrow", Arial,  sans-serif;
 }
 h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
 h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; }
@@ -160,9 +161,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: var(--council-blue); }
 a:hover {
-  color: #0FA0CE; }
+  color: var(--council-blue); }
 
 
 /* Buttons
@@ -221,8 +222,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #1EAEDB;
-  border-color: #1EAEDB; }
+  background-color: var(--council-blue);
+  border-color: var(--council-blue); }
 
 
 /* Forms
