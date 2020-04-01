@@ -13,8 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# skeleton
+# Council Skeleton
 
-[Skeleton CSS](http://getskeleton.com/) for Shiny.
+[Skeleton CSS](http://getskeleton.com/) for Shiny, styled for the Metropolitan Council.  
 
-WIP

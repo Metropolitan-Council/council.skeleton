@@ -1,4 +1,4 @@
-Package: skeleton
+Package: council.skeleton
 Title: Skeleton CSS for Shiny
 Version: 0.0.0.9000
 Authors@R: c(
@@ -6,7 +6,7 @@ Authors@R: c(
   person("Dave", "Gamache", comment = "Skeleton CSS creator"),
   person("Liz", "Roten", email = "liz.roten@metc.state.mn.us", role = c("ctb"))
   )
-Description: Skeleton CSS for Shiny.
+Description: Skeleton CSS for Shiny with Council styling.
 Date: 2020
 Depends: R (>= 3.3.3)
 License: MIT + file LICENSE
@@ -16,4 +16,4 @@ Imports:
     htmltools,
     shiny,
     glue
-RoxygenNote: 7.0.1
+RoxygenNote: 7.1.0
